@@ -1,0 +1,7 @@
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\bin\Debug\TestProject.dll
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\bin\Debug\TestProject.pdb
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\bin\Debug\Bank.exe
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\bin\Debug\Bank.pdb
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\obj\Debug\TestProject.dll
+C:\Users\vartotojas\Documents\Visual Studio 2010\Projects\Bank\TestProject\obj\Debug\TestProject.pdb
